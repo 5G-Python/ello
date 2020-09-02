@@ -1,0 +1,178 @@
+import time
+
+print(
+    'Hello! and welcome to Stick Warfare I: Enemy Terminal! You are currently taking place of Emperor Xiran Green of '
+    'the United Moaft Stickman Republics!' )
+time.sleep(1)
+print("Hold on, whats your name?")
+user_name = input()
+if user_name == "Macie":
+    print("MACIE BLYAT!!!")
+    exit()
+if user_name == "Fudgeler":
+    print("FUDGELER BLYAT!!!")
+    exit()
+if user_name == "Redshirt":
+    print('REDSHIRT BLYAT!!!')
+    exit()
+if user_name == "COPPA":
+    print("COPPA FAN!!! GET OUTTA HIYAH")
+    exit()
+else:
+    if user_name == "5G Java":
+        print("This code was made by Enchant for 5G!")
+    if user_name == "Enchant-mint":
+        print("Searching for Enchant-mint...")
+        time.sleep(5)
+        print("Enchant-mint found!")
+    if user_name == "WindowsXP":
+        print("Loading WindowsXP....")
+        time.sleep(3)
+        print("*insert WindowsXP start-up sound here*")
+    if user_name == "Windows7":
+        print("This is Enchant's OS.")
+    if user_name == "Windows10":
+        print("This is Enchant's *technical* OS.")
+    if user_name == "Marcus":
+        print("Hey Marcus! Cmon on the fight!")
+    print("Anyways, Would you like to know more about where you are? Yes/No")
+answer = input()
+if answer == "Yes":
+    print('Alright! Loading Data inscription...')
+    print("Location: Middle Eastern Aranko, in the deep vallies of Fudgeleria and Redshirland")
+    time.sleep(3)
+else:
+    print("Alright. Now that you have the details, We will move on.")
+    print("Would you like to attack Fudgeleria now? Yes/Np")
+    answer = input()
+if answer == "Yes":
+    print("You attack Fudgeleria with over 2.1K Armored Soldiers.")
+    time.sleep(2)
+    print("OH NO!")
+    print("Fudgeleria has called for backup from Redshiland!")
+    print("call in armed forces?")
+    answer = input()
+if answer == "Yes":
+    print("Summoning Codename Plant Number 23...")
+    time.sleep(4)
+    print("Successful Arrival!")
+    print("You are now attacking with your armed forces towards both Fudgeleria and Redshirland.")
+    time.sleep(3)
+    print("After little time, your soldiers managed to clear up half of Fudgeleria and Redshirland!")
+    time.sleep(2)
+    print("OH DEAR LORD!")
+    print("Fudgeleria and Redshirland and calling in Macielandia for help!")
+    time.sleep(1)
+print("Call Hotland for backup?")
+answer = input()
+if answer == "Yes":
+    print("Alright! In a few minutes Hotland will be here!")
+time.sleep(5)
+print("Great! Hotland is here!")
+print("Ready to attack?")
+answer = input()
+if answer == "Yes":
+    print("You send in 2.8K solders.")
+    time.sleep(4)
+print("As it seems, Macielandia has more soldiers than you thought!")
+print("Call Java Commune, Code Cult, and Noezmo?")
+answer = input()
+if answer == "Yes":
+    print("Lets wait for them to arrive!")
+    time.sleep(3)
+    print("What?! Here already?")
+    print("Anyways, Attack Redshirland, and Macieland?")
+    if answer == "Yes":
+        print("You send in 4.8K soldiers.")
+print("Redshirland is down! Macielandia is still alive though...")
+print("Send in war airplanes?")
+answer = input()
+if answer == "Yes":
+    print("Sending 1.7K war airplanes...")
+    time.sleep(3)
+    print("Succesfully raided Macielandia!")
+    print("HOLD UP...")
+    print("REDSHIRTIA IS SENDING IN WAR AIRPLANES ASWELL!!")
+    print("Build cannons to aim bombs at the planes?")
+    answer = input()
+    if answer == "Yes":
+        print("Building cannons...(Might take a while)")
+        time.sleep(7)
+        print("Finally done! Start aiming?")
+        answer = input()
+    if answer == "Yes":
+        print("Alright! Starting the process...")
+        time.sleep(6)
+        print("Done! The airplanes went down!")
+        print("Grab some of Macielandia?")
+        answer = input()
+    if answer == "Yes":
+        print("Grabbing some of Macielandia..")
+        time.sleep(10)
+        print("Done!")
+        print("As it seems, you accidently took all of Macielandia")
+        time.sleep(2)
+        print("And your land is called Startia btw")
+        time.sleep(2)
+        print("So i guess you are.....Start.....cielamdia now???")
+        time.sleep(2)
+        print("Anyways, Attack Macielandia's Remains and take some of its land aswell??")
+        answer = input()
+    if answer == "Yes":
+        print("Alright.")
+        time.sleep(2)
+        print("This process might take a while..")
+        time.sleep(3)
+        print("Alright, you've gained some land now.")
+        time.sleep(2)
+        print("Heck naw, Macielandia is calling COPPIA for backup!")
+        time.sleep(2)
+        print("You need to start attacking YET AGAIN.")
+        time.sleep(2)
+        print("I know that we are attacking over and over again, but war is war.")
+        time.sleep(2)
+        print("Send in war airplanes, and heck lot of other stuff?")
+        answer = input()
+    if answer == "Yes":
+        print("Awesome! This war is going good so far..")
+        time.sleep(2)
+        print("This process will take a while...")
+        time.sleep(3)
+        print("You sent in 10.8K armed soldiers.")
+        time.sleep(10)
+        print('as it turns out you accidentally sent in the training force called Codename 02.')
+        print("Send them back and send the Codename Expertise Agents?")
+        answer = input()
+        if answer == "Yes":
+            print("re-sending...")
+            print("5G Section and Number Plants sections are all sent in replacement of the C02.")
+            print("Attacking Enemies...")
+            time.sleep(4)
+            print("Amazing! We have completely finished!")
+            print("But someone lurks in the shadows...")
+            time.sleep(3)
+            print("Crap...ITS TYLERIA")
+            time.sleep(2)
+            print("AND THEY HAVE WAR TRAINS")
+            time.sleep(2)
+            print("Do you wanna team up with Marcusia?")
+            answer = input()
+        if answer == "No"
+            print("Then get killed.")
+            exit()
+    else:
+        if answer == "Yes"
+            print("Alright! Now lets call them..")
+            time.sleep(1)
+            print("Calling...(this process might take a while)")
+            time.sleep(7)
+            print("Great! They are here!")
+            time.sleep(2)
+            print("NOW COMES THE FINAL WAR.")
+            print("Tyleria has upgraded his soldiers, into super soldiers, using some sort of mixture, of Radium"
+                  "and Plutonic gases!")
+            print("b")
+            print("END OF BETA 008")
+            print("Created by Hotshot Interactive")
+            time.sleep(5)
+            exit()
